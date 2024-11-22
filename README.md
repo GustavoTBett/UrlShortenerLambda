@@ -21,6 +21,8 @@ Este projeto é um encurtador de URL serverless desenvolvido com **AWS Lambda**,
 
 ## **Endpoints**
 
+**URL**: https://b5hedzfxv1.execute-api.us-east-2.amazonaws.com
+
 ### **1. Criar URL Encurtada**
 - **Método**: `POST`  
 - **Endpoint**: `/create`
